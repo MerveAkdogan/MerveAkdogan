@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MerveAkdogan
 - 👀 I’m interested in computational design.
 - 🌱 I’m currently learning how to use github! Also Python language.
-- 💞️ I’m looking to collaborate on machine learning projects, later.
+- 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 How to reach me. Later.
 - Cheers!
 
